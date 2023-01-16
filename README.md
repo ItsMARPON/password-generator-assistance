@@ -14,6 +14,10 @@ In order to use the Password Generator Assistance app, an internet browser such 
 
 GitHub launched webpage:
 
+https://itsmarpon.github.io/password-generator-assistance/
+
+screenshot:
+
 ```md
 ![Password Generator Image](/Assets/images/password-generator.png)
 ```
