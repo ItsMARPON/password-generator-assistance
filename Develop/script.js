@@ -1,8 +1,7 @@
-// Assignment code here
-
 // Get references to the #generate element
 let generateBtn = document.querySelector("#generate");
 
+// creating arrays for lower case, upper case, special characters, numbers
 const lowercasePassword = [
   "a",
   "b",
