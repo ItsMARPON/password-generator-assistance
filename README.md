@@ -15,7 +15,7 @@ In order to use the Password Generator Assistance app, an internet browser such 
 GitHub launched webpage:
 
 ```md
-![alt text](/Develop/Assets/images/password-generator.png)
+![Password Generator Image](/Assets/images/password-generator.png)
 ```
 
 ## Credits
