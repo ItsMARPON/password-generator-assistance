@@ -18,9 +18,9 @@ https://itsmarpon.github.io/password-generator-assistance/
 
 screenshot:
 
-```md
+
 ![Password Generator Image](/Assets/images/password-generator.png)
-```
+
 
 ## Credits
 
